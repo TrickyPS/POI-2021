@@ -1,0 +1,550 @@
+[
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_profile.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_face.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\drawable\\ic_face.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_profile_round.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_profile_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_class2.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-hdpi\\ic_class2.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_chat_group.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_chat_group.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_chat_group_foreground.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_chat_group_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_profile_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-mdpi\\ic_profile_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_class2_background.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\drawable\\ic_class2_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_buscar.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\layout\\fragment_buscar.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_class_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_class_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_profile_foreground.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_profile_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_class.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_class.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_school_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-mdpi\\ic_school_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_profile_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_profile_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_password.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\drawable\\ic_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_facebook.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\drawable\\btn_facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat_room.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\layout\\activity_chat_room.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_class.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-hdpi\\ic_class.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_class_foreground.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-mdpi\\ic_class_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_chat_group.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_chat_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_chat_group_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_chat_group_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_class2_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-mdpi\\ic_class2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\layout_space.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\layout\\space.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_profile_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_profile_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_final.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\drawable\\logo_final.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_profile_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_profile_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_profile_background.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\drawable\\ic_profile_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_google.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\drawable\\btn_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_school_foreground.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-hdpi\\ic_school_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_chat_group_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-mdpi\\ic_chat_group_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_school_round.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_school_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\navigation_fragmentos.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\navigation\\fragmentos.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_class_foreground.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_class_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_school_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_school_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_chat_group_background.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\drawable\\ic_chat_group_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_imagenlogo.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\drawable\\imagenlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_profile_foreground.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-hdpi\\ic_profile_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_profile_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-hdpi\\ic_profile_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_chat_group_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_chat_group_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_school.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-hdpi\\ic_school.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_school_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-hdpi\\ic_school_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_school_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_school_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_class2.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-mdpi\\ic_class2.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_chat_group.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_chat_group.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_chat_group_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_chat_group_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_chat_group.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-hdpi\\ic_chat_group.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registro.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\layout\\activity_registro.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_esquinas.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\drawable\\esquinas.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_imagen.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\drawable\\imagen.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_class2.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_class2.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_profile.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragmentot_tareas.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\layout\\fragmentot_tareas.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-widecg_imagenlogo.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\drawable-widecg\\imagenlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_nav.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\menu\\menu_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_profile_foreground.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-mdpi\\ic_profile_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_class2.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_class2.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_profile_foreground.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_profile_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_perfil.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\drawable\\ic_menu_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_chat_group_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-hdpi\\ic_chat_group_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_school.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_school.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_class2_foreground.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_class2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_school.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_school.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_chat_group_foreground.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-mdpi\\ic_chat_group_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_class2.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_class2.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_class2_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_class2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_tareas.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\drawable\\ic_menu_tareas.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_class.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-mdpi\\ic_class.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_class_background.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\drawable\\ic_class_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_class.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_class.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldltr_google_icon.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\drawable-ldltr\\google_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_left_nav.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\menu\\menu_left_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_class2_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_class2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_class2_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_class2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_school_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_school_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_chat_group.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-mdpi\\ic_chat_group.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_class2_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-hdpi\\ic_class2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_class.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_class.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_class2_foreground.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_class2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_class_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-hdpi\\ic_class_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_class2_foreground.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_class2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_school_foreground.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-mdpi\\ic_school_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_school_foreground.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_school_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_profile_foreground.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_profile_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_search.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\drawable\\ic_menu_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_class2_round.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_class2_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_school.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_school.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_class.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_class.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_user.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_class2.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_class2.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook_logo_logotyp_us.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\drawable\\facebook_logo_logotyp_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_school_background.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\drawable\\ic_school_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_chat_group_foreground.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_chat_group_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_google.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\drawable\\ic_google.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_perfil.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\layout\\fragment_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_chat_group_foreground.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_chat_group_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_user.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\drawable\\ic_menu_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_profile.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chat.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_class_round.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_class_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_class_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_class_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_chat_group_round.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_chat_group_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_class_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-mdpi\\ic_class_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_chat_group_foreground.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-hdpi\\ic_chat_group_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_school.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_school.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_class_foreground.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_class_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_class_foreground.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_class_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_class_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_class_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_school_foreground.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_school_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chatbox.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\layout\\activity_chatbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_school.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-mdpi\\ic_school.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_class2_foreground.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-hdpi\\ic_class2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_chat.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\drawable\\ic_menu_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_school_foreground.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_school_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_class_foreground.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-hdpi\\ic_class_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_profile.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_class2_foreground.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-mdpi\\ic_class2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_chat_group.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_chat_group.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient1.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\drawable\\gradient1.xml"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_profile.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-mdpi\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_profile.png.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\mipmap-hdpi\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\angel\\AndroidStudioProjects\\POI\\app\\src\\main\\res\\layout\\activity_home.xml"
+    }
+]
